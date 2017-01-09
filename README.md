@@ -6,3 +6,5 @@ This change here is the first of many changes I will make and merge.
 
 Running a branch, and merge more than once will help build a better
 undestanding. Twice doesn't even seem to be enough.
+
+Hi, this is another edit of the readme done for the sake of practice.
