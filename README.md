@@ -10,4 +10,4 @@ undestanding. Twice doesn't even seem to be enough.
 Hi, this is another edit of the readme done for the sake of practice.
 
 
-Hello it is 1-11, making one edit then commiting to github time = 3:45 edit
+Hello it is 1-11, making one edit then commiting to github time = 3:53 edit
